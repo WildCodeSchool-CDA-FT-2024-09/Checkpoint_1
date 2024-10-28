@@ -26,12 +26,14 @@ describe("Array", () => {
 
     expect(eltRemoved).toEqual("louloutte");
     expect(newArray.value).toHaveLength(4);
+  });
 
-    const newArray2 = new Arr();
-    const eltRemoved2 = newArray2.popFab();
+  it("should return undefined as the array is empty", () => {
+    const newArray = new Arr();
+    const eltRemoved = newArray.popFab();
 
-    expect(eltRemoved2).toEqual(undefined);
-    expect(newArray2.value).toHaveLength(0);
+    expect(eltRemoved).toEqual(undefined);
+    expect(newArray.value).toHaveLength(0);
   });
 
   it("should removes the first element in the array and returns it", () => {
@@ -45,11 +47,13 @@ describe("Array", () => {
 
     expect(eltRemoved).toEqual("zen");
     expect(newArray.value).toHaveLength(4);
+  });
 
-    const newArray2 = new Arr();
-    const eltRemoved2 = newArray2.popFab();
+  it("should return undefined as the array is empty", () => {
+    const newArray = new Arr();
+    const eltRemoved = newArray.shiftFab();
 
-    expect(eltRemoved2).toEqual(undefined);
-    expect(newArray2.value).toHaveLength(0);
+    expect(eltRemoved).toEqual(undefined);
+    expect(newArray.value).toHaveLength(0);
   });
 });
