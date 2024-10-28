@@ -1,0 +1,1 @@
+SELECT * FROM offres WHERE ville_poste = 'paris';
