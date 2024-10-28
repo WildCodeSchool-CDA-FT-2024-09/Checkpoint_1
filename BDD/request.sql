@@ -9,9 +9,11 @@ JOIN candidate AS c
 ON c.id = a.candidate_id
 WHERE job_offer.id = 1;
 
-SELECT c.* FROM job_offer
+SELECT c.*, j.job_title, comp.name FROM job_offer AS j
 JOIN application AS a
-ON a.job_id = job_offer.id
+ON a.job_id = j.id
+JOIN company AS comp
+ON comp.id = j.company_id
 JOIN candidate AS c
 ON c.id = a.candidate_id
-WHERE job_offer.company_id = 2;
+WHERE j.company_id = 6;
