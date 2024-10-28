@@ -1,4 +1,5 @@
 class Arr {
+  // Value est un tableau de string
   value: string[] = [];
 
   push(el: string): number {
@@ -35,6 +36,33 @@ class Arr {
     // On remplace le tableau actuel par le nouveau tableau
     this.value = array;
     return lastElement;
+  }
+
+  shift(): string | undefined {
+    // La méthode shift() permet de supprimer le premier élément d'un tableau et de renvoyer cet élément
+    // Si le tableau est vide, la méthode shift() retourne undefined et le tableau n'est pas modifié.
+
+    // Si le tableau est vide, on retourne undefined
+    if (this.value.length === 0) {
+      return undefined;
+    }
+
+    // Sauvegarde du premier élément
+    const firstElement = this.value[0];
+
+    // Créer un tableau plus petit (this.value.length - 1)
+    const array = new Array(this.value.length - 1);
+
+    // Copier les éléments sauf le premier
+    for (let i = 1; i < this.value.length; i++) {
+      array[i - 1] = this.value[i];
+    }
+
+    // Mettre à jour this.value avec le nouveau tableau
+    this.value = array;
+
+    // Retourner le premier élément retiré
+    return firstElement;
   }
 }
 

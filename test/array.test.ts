@@ -36,4 +36,26 @@ describe("Array", () => {
     expect(result).toBeUndefined();
     expect(newArray.value).toHaveLength(0);
   });
+
+  it("should remove and return the first element of the array", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    newArray.push("b");
+    newArray.push("c");
+
+    const result = newArray.shift();
+
+    expect(result).toEqual("a");
+    expect(newArray.value).toHaveLength(2);
+    expect(newArray.value).toEqual(["b", "c"]);
+  });
+
+  it("should return undefined when shift is called on an empty array", () => {
+    const newArray = new Arr();
+
+    const result = newArray.shift();
+
+    expect(result).toBeUndefined();
+    expect(newArray.value).toHaveLength(0);
+  });
 });
