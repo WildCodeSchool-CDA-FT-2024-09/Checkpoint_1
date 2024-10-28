@@ -13,5 +13,17 @@ describe("Array", () => {
 
     expect(newArray.value).toHaveLength(1);
     expect(result).toEqual(1);
+    console.log("first", newArray)
   });
+  
+  it("should delete last element in the array", () => {
+    const newArraypop = new Arr();
+    const result = newArraypop.pop();
+
+    expect(newArraypop.value).toHaveLength(0)
+    expect(result).toEqual(0);
+    console.log("snd", newArraypop)
+  })
+  
 });
+
