@@ -33,7 +33,8 @@ insert into offers (id, title, description, location, company_id) values (2, 'Se
 insert into offers (id, title, description, location, company_id) values (3, 'Mechanical Systems Engineer', 'n/a', 'Baltimore', 2);
 insert into offers (id, title, description, location, company_id) values (4, 'Staff Scientist', 'Electric Utilities: Central', 'Hayama', 2);
 insert into offers (id, title, description, location, company_id) values (5, 'Professor', 'EDP Services', 'Chonghe', 3);
-
+insert into offers (id, title, description, location, company_id) values (6, 'Super Scientist', 'Electric Utilities: Central', 'Hayama', 2);
+insert into offers (id, title, description, location, company_id) values (7, 'Web Dev', 'Electric Utilities: Central', 'Hayama', 2);
 
 insert into seeker_offer (offer_id, seeker_id) values (1, 2);
 insert into seeker_offer (offer_id, seeker_id) values (2, 2);
@@ -42,17 +43,3 @@ insert into seeker_offer (offer_id, seeker_id) values (4, 5);
 insert into seeker_offer (offer_id, seeker_id) values (4, 2);
 insert into seeker_offer (offer_id, seeker_id) values (4, 1);
 insert into seeker_offer (offer_id, seeker_id) values (5, 5);
-
---- ==============
-
---- Samples requests
-
---- Get all seekers of an offer
-SELECT so.offer_id, s.firstname, s.lastname FROM seeker_offer so
-LEFT JOIN seekers s ON s.id = so.seeker_id
-WHERE offer_id = 4;
-
---- Get all offers of a seeker
-SELECT so.seeker_id, o.title, o.description FROM seeker_offer so
-LEFT JOIN offers o ON o.id = so.offer_id
-WHERE seeker_id = 5;
