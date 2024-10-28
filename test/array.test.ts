@@ -33,4 +33,23 @@ describe("Array", () => {
     expect(eltRemoved2).toEqual(undefined);
     expect(newArray2.value).toHaveLength(0);
   });
+
+  it("should removes the first element in the array and returns it", () => {
+    const newArray = new Arr();
+    newArray.push("zen");
+    newArray.push("pedro");
+    newArray.push("noisette");
+    newArray.push("suki");
+    newArray.push("louloutte");
+    const eltRemoved = newArray.shiftFab();
+
+    expect(eltRemoved).toEqual("zen");
+    expect(newArray.value).toHaveLength(4);
+
+    const newArray2 = new Arr();
+    const eltRemoved2 = newArray2.popFab();
+
+    expect(eltRemoved2).toEqual(undefined);
+    expect(newArray2.value).toHaveLength(0);
+  });
 });
