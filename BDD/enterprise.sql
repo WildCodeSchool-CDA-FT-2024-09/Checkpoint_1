@@ -1,0 +1,10 @@
+insert into enterprise (id, name, description) values (1, 'Pixoboo', 'eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero');
+insert into enterprise (id, name, description) values (2, 'Plajo', 'ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi');
+insert into enterprise (id, name, description) values (3, 'Brainsphere', 'curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget');
+insert into enterprise (id, name, description) values (4, 'Oloo', 'justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum');
+insert into enterprise (id, name, description) values (5, 'Realbuzz', 'sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend');
+insert into enterprise (id, name, description) values (6, 'Realmix', 'nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum');
+insert into enterprise (id, name, description) values (7, 'Devcast', 'aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam');
+insert into enterprise (id, name, description) values (8, 'Yotz', 'consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis');
+insert into enterprise (id, name, description) values (9, 'Pixope', 'venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut');
+insert into enterprise (id, name, description) values (10, 'Devcast', 'in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit');

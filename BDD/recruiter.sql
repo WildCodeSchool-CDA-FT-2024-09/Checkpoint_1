@@ -1,0 +1,10 @@
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (1, 'awaren0@blogtalkradio.com', '$2a$04$mpAJW9GIoms7/OkSPc.SrOzHDDVMKGbMkAbMwm92EL8ue5LSJ5s.i', 1);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (2, 'jcowsby1@mysql.com', '$2a$04$/radqtIyfvKOH/sfBrRkqeluXCK6ADl2yQnaWY6vUinw5jSTKI0IK', 2);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (3, 'ldrane2@rakuten.co.jp', '$2a$04$PJ1Zi8ALaj/0m/LRhukDL.RcbqxXrbCQst.LVLBdX5ib1Ox3FaNUq', 3);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (4, 'rstainfield3@rediff.com', '$2a$04$MOjB5SBKz5iCI/Xj3s46AegCLjGmmotLRGfoH0KpC8AeNPFqhg3FG', 4);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (5, 'rgalia4@people.com.cn', '$2a$04$k70TV8Z8RBIQNahE4R4BSurtxsMMFGPzr0G.qtliw62gLaw2BdCMm', 5);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (6, 'aallden5@posterous.com', '$2a$04$hJ73SxUsH9fxjjkg05xYVurcBQ9Qu4AN0MeLoOhYmgOQdxgtc/AX6', 6);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (7, 'epindred6@instagram.com', '$2a$04$tp6GVFG5tDvQuSNN0EHJXuiVZ2ElBUjbkGx29uua901hbsFju3fNK', 7);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (8, 'dfeveryear7@addtoany.com', '$2a$04$MfsI3ulxDchJfjnA0bgjPenRgS8pHEb2yBBq/PRVZk7pqRp7bcEc.', 8);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (9, 'gdagon8@nationalgeographic.com', '$2a$04$Tz8pE/TA.V8i5ROhDq9JmOdRd3qecrB7c8n05G0DdtGa7UIvFWCDW', 9);
+insert into recruiter (id, email, mot_de_passe, enterprise_id) values (10, 'pteresi9@theatlantic.com', '$2a$04$qaQJwU6nQiiDahAqb1gYAeO4k9EV4Y5Cy9VgJAke59iSF4OgPDQBu', 10);
