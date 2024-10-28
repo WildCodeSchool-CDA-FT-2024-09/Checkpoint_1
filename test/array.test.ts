@@ -14,4 +14,25 @@ describe("Array", () => {
     expect(newArray.value).toHaveLength(1);
     expect(result).toEqual(1);
   });
+
+
+  // test pop
+  it("pop methodshould return element delete", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    const result = newArray.pop();
+
+    expect(newArray.value).toHaveLength(0);
+    expect(result).toEqual("a");
+  });
+
+  // test shift
+  it("shift method should return element delete", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    const result = newArray.shift();
+
+    expect(newArray.value).toHaveLength(0);
+    expect(result).toEqual("a");
+  });
 });
