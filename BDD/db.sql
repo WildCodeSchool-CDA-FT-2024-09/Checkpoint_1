@@ -1,43 +1,47 @@
 BEGIN;
 
-CREATE TABLE IF NOT EXISTS `Recruteur` (
+CREATE TABLE IF NOT EXISTS `Recruiter` (
 	`id` integer primary key NOT NULL UNIQUE,
 	`login` TEXT NOT NULL UNIQUE,
-	`mot_de_passe` TEXT NOT NULL UNIQUE,
-	`entreprise_id` INTEGER NOT NULL,
-FOREIGN KEY(`entreprise_id`) REFERENCES `Entreprise`(`id`)
+	`password` TEXT NOT NULL UNIQUE,
+	`company_id` INTEGER NOT NULL,
+	FOREIGN KEY(`company_id`) REFERENCES `Company`(`id`)
 );
-CREATE TABLE IF NOT EXISTS `Candidat` (
+
+CREATE TABLE IF NOT EXISTS `Candidate` (
 	`id` integer primary key NOT NULL UNIQUE,
 	`login` TEXT NOT NULL UNIQUE,
-	`mot_de_passe` TEXT NOT NULL UNIQUE,
-	`nom` TEXT NOT NULL,
-	`prénom` TEXT NOT NULL,
+	`password` TEXT NOT NULL UNIQUE,
+	`last_name` TEXT NOT NULL,
+	`first_name` TEXT NOT NULL,
 	`email` TEXT UNIQUE NOT NULL,
-	`num_téléphone` INTEGER UNIQUE NOT NULL,
-	`texte_présentation` TEXT NOT NULL
+	`phone_number` INTEGER UNIQUE NOT NULL,
+	`presentation_text` TEXT NOT NULL
 );
-CREATE TABLE IF NOT EXISTS `Entreprise` (
+
+CREATE TABLE IF NOT EXISTS `Company` (
 	`id` integer primary key NOT NULL UNIQUE,
-	`nom` TEXT NOT NULL UNIQUE,
+	`name` TEXT NOT NULL UNIQUE,
 	`description` TEXT NOT NULL
 );
-CREATE TABLE IF NOT EXISTS `Offre` (
+
+CREATE TABLE IF NOT EXISTS `JobOffer` (
 	`id` integer primary key NOT NULL UNIQUE,
-	`titre_du_poste` TEXT NOT NULL,
-	`description_poste` TEXT NOT NULL,
-	`ville_poste` TEXT NOT NULL,
-	`entreprise_id` INTEGER NOT NULL,
-	`recruteur_id` INTEGER NOT NULL,
-FOREIGN KEY(`entreprise_id`) REFERENCES `Entreprise`(`id`),
-FOREIGN KEY(`recruteur_id`) REFERENCES `Recruteur`(`id`)
+	`job_title` TEXT NOT NULL,
+	`job_description` TEXT NOT NULL,
+	`job_city` TEXT NOT NULL,
+	`company_id` INTEGER NOT NULL,
+	`recruiter_id` INTEGER NOT NULL,
+	FOREIGN KEY(`company_id`) REFERENCES `Company`(`id`),
+	FOREIGN KEY(`recruiter_id`) REFERENCES `Recruiter`(`id`)
 );
-CREATE TABLE IF NOT EXISTS `Table_candidature` (
+
+CREATE TABLE IF NOT EXISTS `Application` (
 	`id` integer primary key NOT NULL UNIQUE,
-	`candidat_id` INTEGER NOT NULL,
-	`offre_id` INTEGER NOT NULL,
-FOREIGN KEY(`candidat_id`) REFERENCES `Candidat`(`id`),
-FOREIGN KEY(`offre_id`) REFERENCES `Offre`(`id`)
+	`candidate_id` INTEGER NOT NULL,
+	`job_offer_id` INTEGER NOT NULL,
+	FOREIGN KEY(`candidate_id`) REFERENCES `Candidate`(`id`),
+	FOREIGN KEY(`job_offer_id`) REFERENCES `JobOffer`(`id`)
 );
 
 COMMIT;

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "job_title": "Développeur Frontend",
+    "job_description": "Nous recherchons un développeur frontend talentueux.",
+    "job_city": "Paris",
+    "company_id": 1,
+    "recruiter_id": 1
+  },
+  {
+    "id": 2,
+    "job_title": "Développeur Backend",
+    "job_description": "Rejoignez notre équipe en tant que développeur backend.",
+    "job_city": "Lyon",
+    "company_id": 2,
+    "recruiter_id": 2
+  },
+  {
+    "id": 3,
+    "job_title": "Chef de projet IT",
+    "job_description": "Gérer des projets innovants dans le secteur technologique.",
+    "job_city": "Marseille",
+    "company_id": 3,
+    "recruiter_id": 3
+  },
+  {
+    "id": 4,
+    "job_title": "Graphiste",
+    "job_description": "Concevoir des visuels pour nos clients.",
+    "job_city": "Bordeaux",
+    "company_id": 4,
+    "recruiter_id": 4
+  },
+  {
+    "id": 5,
+    "job_title": "Responsable marketing digital",
+    "job_description": "Élaborer des stratégies de marketing en ligne.",
+    "job_city": "Toulouse",
+    "company_id": 5,
+    "recruiter_id": 5
+  },
+  {
+    "id": 6,
+    "job_title": "Ingénieur logiciel",
+    "job_description": "Développer des solutions logicielles pour nos clients.",
+    "job_city": "Nice",
+    "company_id": 6,
+    "recruiter_id": 6
+  },
+  {
+    "id": 7,
+    "job_title": "Analyste de données",
+    "job_description": "Analyser les données pour aider à la prise de décisions.",
+    "job_city": "Lille",
+    "company_id": 7,
+    "recruiter_id": 7
+  },
+  {
+    "id": 8,
+    "job_title": "Technicien support",
+    "job_description": "Fournir un support technique aux utilisateurs.",
+    "job_city": "Nantes",
+    "company_id": 8,
+    "recruiter_id": 8
+  },
+  {
+    "id": 9,
+    "job_title": "Responsable des ventes",
+    "job_description": "Gérer l'équipe de vente et atteindre les objectifs.",
+    "job_city": "Strasbourg",
+    "company_id": 9,
+    "recruiter_id": 9
+  },
+  {
+    "id": 10,
+    "job_title": "Développeur Full Stack",
+    "job_description": "Travailler sur le front et le back-end des applications.",
+    "job_city": "Montpellier",
+    "company_id": 10,
+    "recruiter_id": 10
+  },
+  {
+    "id": 11,
+    "job_title": "Community Manager",
+    "job_description": "Gérer notre présence sur les réseaux sociaux.",
+    "job_city": "Rennes",
+    "company_id": 11,
+    "recruiter_id": 11
+  },
+  {
+    "id": 12,
+    "job_title": "Consultant en ressources humaines",
+    "job_description": "Aider les entreprises à gérer leurs ressources humaines.",
+    "job_city": "Saint-Étienne",
+    "company_id": 12,
+    "recruiter_id": 12
+  },
+  {
+    "id": 13,
+    "job_title": "Responsable de la communication",
+    "job_description": "Élaborer des stratégies de communication.",
+    "job_city": "Toulon",
+    "company_id": 13,
+    "recruiter_id": 13
+  },
+  {
+    "id": 14,
+    "job_title": "Formateur",
+    "job_description": "Former les employés sur les nouveaux outils.",
+    "job_city": "Angers",
+    "company_id": 14,
+    "recruiter_id": 14
+  },
+  {
+    "id": 15,
+    "job_title": "Développeur mobile",
+    "job_description": "Développer des applications pour smartphones.",
+    "job_city": "Clermont-Ferrand",
+    "company_id": 15,
+    "recruiter_id": 15
+  },
+  {
+    "id": 16,
+    "job_title": "Designer UI/UX",
+    "job_description": "Créer des expériences utilisateurs engageantes.",
+    "job_city": "Reims",
+    "company_id": 16,
+    "recruiter_id": 16
+  },
+  {
+    "id": 17,
+    "job_title": "Ingénieur réseaux",
+    "job_description": "Gérer et optimiser nos réseaux informatiques.",
+    "job_city": "Le Havre",
+    "company_id": 17,
+    "recruiter_id": 17
+  },
+  {
+    "id": 18,
+    "job_title": "Chef de produit",
+    "job_description": "Gérer le cycle de vie des produits.",
+    "job_city": "Saint-Denis",
+    "company_id": 18,
+    "recruiter_id": 18
+  },
+  {
+    "id": 19,
+    "job_title": "Responsable qualité",
+    "job_description": "Assurer la qualité des produits et services.",
+    "job_city": "Grenoble",
+    "company_id": 19,
+    "recruiter_id": 19
+  },
+  {
+    "id": 20,
+    "job_title": "Chargé de mission",
+    "job_description": "Accompagner les projets de l'entreprise.",
+    "job_city": "Nanterre",
+    "company_id": 20,
+    "recruiter_id": 20
+  },
+  {
+    "id": 21,
+    "job_title": "Développeur Python",
+    "job_description": "Développer des applications avec Python.",
+    "job_city": "Versailles",
+    "company_id": 21,
+    "recruiter_id": 1
+  },
+  {
+    "id": 22,
+    "job_title": "Chef de projet junior",
+    "job_description": "Assister le chef de projet senior.",
+    "job_city": "Amiens",
+    "company_id": 22,
+    "recruiter_id": 2
+  },
+  {
+    "id": 23,
+    "job_title": "Responsable e-commerce",
+    "job_description": "Gérer les ventes en ligne.",
+    "job_city": "Perpignan",
+    "company_id": 23,
+    "recruiter_id": 3
+  },
+  {
+    "id": 24,
+    "job_title": "Développeur Java",
+    "job_description": "Créer des applications Java.",
+    "job_city": "Brest",
+    "company_id": 24,
+    "recruiter_id": 4
+  },
+  {
+    "id": 25,
+    "job_title": "Analyste fonctionnel",
+    "job_description": "Analyser les besoins des clients.",
+    "job_city": "La Rochelle",
+    "company_id": 25,
+    "recruiter_id": 5
+  },
+  {
+    "id": 26,
+    "job_title": "Commercial",
+    "job_description": "Vendre nos services et produits.",
+    "job_city": "Avignon",
+    "company_id": 26,
+    "recruiter_id": 6
+  },
+  {
+    "id": 27,
+    "job_title": "Spécialiste SEO",
+    "job_description": "Optimiser notre visibilité sur le web.",
+    "job_city": "Nancy",
+    "company_id": 27,
+    "recruiter_id": 7
+  },
+  {
+    "id": 28,
+    "job_title": "Développeur Ruby",
+    "job_description": "Développer des applications Ruby.",
+    "job_city": "Lille",
+    "company_id": 28,
+    "recruiter_id": 8
+  },
+  {
+    "id": 29,
+    "job_title": "Chargé de communication",
+    "job_description": "Gérer les relations publiques de l'entreprise.",
+    "job_city": "Tours",
+    "company_id": 29,
+    "recruiter_id": 9
+  },
+  {
+    "id": 30,
+    "job_title": "Product Owner",
+    "job_description": "Gérer le développement du produit.",
+    "job_city": "Orléans",
+    "company_id": 30,
+    "recruiter_id": 10
+  },
+  {
+    "id": 31,
+    "job_title": "Technicien informatique",
+    "job_description": "Assurer le bon fonctionnement des systèmes.",
+    "job_city": "Lille",
+    "company_id": 31,
+    "recruiter_id": 11
+  },
+  {
+    "id": 32,
+    "job_title": "Auditeur",
+    "job_description": "Effectuer des audits de conformité.",
+    "job_city": "Avignon",
+    "company_id": 32,
+    "recruiter_id": 12
+  },
+  {
+    "id": 33,
+    "job_title": "Chargé de projet",
+    "job_description": "Gérer des projets variés.",
+    "job_city": "Clermont-Ferrand",
+    "company_id": 33,
+    "recruiter_id": 13
+  },
+  {
+    "id": 34,
+    "job_title": "Développeur .NET",
+    "job_description": "Créer des applications avec .NET.",
+    "job_city": "Roubaix",
+    "company_id": 34,
+    "recruiter_id": 14
+  },
+  {
+    "id": 35,
+    "job_title": "Contrôleur de gestion",
+    "job_description": "Analyser et suivre les budgets.",
+    "job_city": "Saint-Malo",
+    "company_id": 35,
+    "recruiter_id": 15
+  },
+  {
+    "id": 36,
+    "job_title": "Chef de produit technique",
+    "job_description": "Gérer le développement technique des produits.",
+    "job_city": "Bourges",
+    "company_id": 36,
+    "recruiter_id": 16
+  },
+  {
+    "id": 37,
+    "job_title": "Consultant IT",
+    "job_description": "Accompagner les entreprises dans leurs projets IT.",
+    "job_city": "Aix-en-Provence",
+    "company_id": 37,
+    "recruiter_id": 17
+  },
+  {
+    "id": 38,
+    "job_title": "Responsable de la sécurité informatique",
+    "job_description": "Assurer la sécurité des données.",
+    "job_city": "Laval",
+    "company_id": 38,
+    "recruiter_id": 18
+  },
+  {
+    "id": 39,
+    "job_title": "Data Scientist",
+    "job_description": "Analyser et interpréter des données complexes.",
+    "job_city": "Chalon-sur-Saône",
+    "company_id": 39,
+    "recruiter_id": 19
+  },
+  {
+    "id": 40,
+    "job_title": "Directeur marketing",
+    "job_description": "Élaborer la stratégie marketing de l'entreprise.",
+    "job_city": "La Roche-sur-Yon",
+    "company_id": 40,
+    "recruiter_id": 20
+  },
+  {
+    "id": 41,
+    "job_title": "Développeur C#",
+    "job_description": "Développer des applications en C#.",
+    "job_city": "Colmar",
+    "company_id": 41,
+    "recruiter_id": 1
+  },
+  {
+    "id": 42,
+    "job_title": "Ingénieur en systèmes embarqués",
+    "job_description": "Travailler sur des systèmes embarqués innovants.",
+    "job_city": "Agen",
+    "company_id": 42,
+    "recruiter_id": 2
+  },
+  {
+    "id": 43,
+    "job_title": "Responsable des opérations",
+    "job_description": "Optimiser les processus opérationnels.",
+    "job_city": "Antibes",
+    "company_id": 43,
+    "recruiter_id": 3
+  },
+  {
+    "id": 44,
+    "job_title": "Spécialiste en cybersécurité",
+    "job_description": "Protéger les systèmes d'information contre les attaques.",
+    "job_city": "Évry",
+    "company_id": 44,
+    "recruiter_id": 4
+  },
+  {
+    "id": 45,
+    "job_title": "Chargé de développement durable",
+    "job_description": "Mettre en place des pratiques durables.",
+    "job_city": "Saint-Étienne",
+    "company_id": 45,
+    "recruiter_id": 5
+  },
+  {
+    "id": 46,
+    "job_title": "Directeur technique",
+    "job_description": "Superviser les équipes techniques.",
+    "job_city": "Béziers",
+    "company_id": 46,
+    "recruiter_id": 6
+  },
+  {
+    "id": 47,
+    "job_title": "Responsable de la recherche et développement",
+    "job_description": "Encadrer les projets de R&D.",
+    "job_city": "Pau",
+    "company_id": 47,
+    "recruiter_id": 7
+  },
+  {
+    "id": 48,
+    "job_title": "Médecin",
+    "job_description": "Fournir des soins médicaux aux patients.",
+    "job_city": "Nice",
+    "company_id": 48,
+    "recruiter_id": 8
+  },
+  {
+    "id": 49,
+    "job_title": "Vétérinaire",
+    "job_description": "Soigner les animaux.",
+    "job_city": "Lyon",
+    "company_id": 49,
+    "recruiter_id": 9
+  },
+  {
+    "id": 50,
+    "job_title": "Pharmacien",
+    "job_description": "Conseiller les patients sur les médicaments.",
+    "job_city": "Marseille",
+    "company_id": 50,
+    "recruiter_id": 10
+  },
+  {
+    "id": 51,
+    "job_title": "Chef cuisinier",
+    "job_description": "Gérer la cuisine d'un restaurant.",
+    "job_city": "Toulon",
+    "company_id": 51,
+    "recruiter_id": 11
+  },
+  {
+    "id": 52,
+    "job_title": "Conducteur de travaux",
+    "job_description": "Superviser les chantiers de construction.",
+    "job_city": "Nantes",
+    "company_id": 52,
+    "recruiter_id": 12
+  },
+  {
+    "id": 53,
+    "job_title": "Mécanicien",
+    "job_description": "Entretenir et réparer des véhicules.",
+    "job_city": "Lille",
+    "company_id": 53,
+    "recruiter_id": 13
+  },
+  {
+    "id": 54,
+    "job_title": "Électricien",
+    "job_description": "Installer et entretenir des systèmes électriques.",
+    "job_city": "Rouen",
+    "company_id": 54,
+    "recruiter_id": 14
+  },
+  {
+    "id": 55,
+    "job_title": "Maçon",
+    "job_description": "Construire des structures en maçonnerie.",
+    "job_city": "Strasbourg",
+    "company_id": 55,
+    "recruiter_id": 15
+  },
+  {
+    "id": 56,
+    "job_title": "Pharmacien",
+    "job_description": "Conseiller les patients sur les médicaments.",
+    "job_city": "Lyon",
+    "company_id": 56,
+    "recruiter_id": 16
+  },
+  {
+    "id": 57,
+    "job_title": "Conducteur de bus",
+    "job_description": "Transporter des passagers en toute sécurité.",
+    "job_city": "Bordeaux",
+    "company_id": 57,
+    "recruiter_id": 17
+  },
+  {
+    "id": 58,
+    "job_title": "Aide-soignant",
+    "job_description": "Assister les patients dans leurs soins quotidiens.",
+    "job_city": "Marseille",
+    "company_id": 58,
+    "recruiter_id": 18
+  },
+  {
+    "id": 59,
+    "job_title": "Ingénieur civil",
+    "job_description": "Travailler sur des projets d'infrastructure.",
+    "job_city": "Nice",
+    "company_id": 59,
+    "recruiter_id": 19
+  },
+  {
+    "id": 60,
+    "job_title": "Architecte",
+    "job_description": "Concevoir des bâtiments et des espaces.",
+    "job_city": "Toulouse",
+    "company_id": 60,
+    "recruiter_id": 20
+  },
+  {
+    "id": 61,
+    "job_title": "Technicien de maintenance",
+    "job_description": "Assurer la maintenance des équipements.",
+    "job_city": "Paris",
+    "company_id": 61,
+    "recruiter_id": 1
+  },
+  {
+    "id": 62,
+    "job_title": "Assistant administratif",
+    "job_description": "Gérer les tâches administratives.",
+    "job_city": "Marseille",
+    "company_id": 62,
+    "recruiter_id": 2
+  },
+  {
+    "id": 63,
+    "job_title": "Directeur commercial",
+    "job_description": "Développer la stratégie commerciale.",
+    "job_city": "Lyon",
+    "company_id": 63,
+    "recruiter_id": 3
+  },
+  {
+    "id": 64,
+    "job_title": "Expert-comptable",
+    "job_description": "Gérer les comptes des clients.",
+    "job_city": "Bordeaux",
+    "company_id": 64,
+    "recruiter_id": 4
+  },
+  {
+    "id": 65,
+    "job_title": "Développeur SQL",
+    "job_description": "Gérer les bases de données SQL.",
+    "job_city": "Toulouse",
+    "company_id": 65,
+    "recruiter_id": 5
+  },
+  {
+    "id": 66,
+    "job_title": "Chargé de projet événementiel",
+    "job_description": "Organiser des événements pour l'entreprise.",
+    "job_city": "Nantes",
+    "company_id": 66,
+    "recruiter_id": 6
+  },
+  {
+    "id": 67,
+    "job_title": "Pilote de drone",
+    "job_description": "Opérer des drones pour des missions variées.",
+    "job_city": "Lille",
+    "company_id": 67,
+    "recruiter_id": 7
+  },
+  {
+    "id": 68,
+    "job_title": "Directeur des systèmes d'information",
+    "job_description": "Superviser les systèmes d'information de l'entreprise.",
+    "job_city": "Grenoble",
+    "company_id": 68,
+    "recruiter_id": 8
+  },
+  {
+    "id": 69,
+    "job_title": "Rédacteur web",
+    "job_description": "Créer du contenu pour le site web.",
+    "job_city": "Tours",
+    "company_id": 69,
+    "recruiter_id": 9
+  },
+  {
+    "id": 70,
+    "job_title": "Contrôleur de gestion",
+    "job_description": "Suivre la performance financière de l'entreprise.",
+    "job_city": "Orléans",
+    "company_id": 70,
+    "recruiter_id": 10
+  },
+  {
+    "id": 71,
+    "job_title": "Technicien audiovisuel",
+    "job_description": "Gérer les équipements audiovisuels.",
+    "job_city": "Amiens",
+    "company_id": 71,
+    "recruiter_id": 11
+  },
+  {
+    "id": 72,
+    "job_title": "Dessinateur industriel",
+    "job_description": "Réaliser des plans techniques.",
+    "job_city": "Avignon",
+    "company_id": 72,
+    "recruiter_id": 12
+  },
+  {
+    "id": 73,
+    "job_title": "Maître d'hôtel",
+    "job_description": "Gérer le service dans un restaurant.",
+    "job_city": "Perpignan",
+    "company_id": 73,
+    "recruiter_id": 13
+  },
+  {
+    "id": 74,
+    "job_title": "Responsable des achats",
+    "job_description": "Gérer les achats pour l'entreprise.",
+    "job_city": "Brest",
+    "company_id": 74,
+    "recruiter_id": 14
+  },
+  {
+    "id": 75,
+    "job_title": "Chargé de relations clients",
+    "job_description": "Gérer les relations avec les clients.",
+    "job_city": "Rennes",
+    "company_id": 75,
+    "recruiter_id": 15
+  },
+  {
+    "id": 76,
+    "job_title": "Directeur d'agence",
+    "job_description": "Gérer une agence de communication.",
+    "job_city": "Saint-Étienne",
+    "company_id": 76,
+    "recruiter_id": 16
+  },
+  {
+    "id": 77,
+    "job_title": "Technicien qualité",
+    "job_description": "Assurer la qualité des produits.",
+    "job_city": "Clermont-Ferrand",
+    "company_id": 77,
+    "recruiter_id": 17
+  },
+  {
+    "id": 78,
+    "job_title": "Consultant en stratégie",
+    "job_description": "Conseiller les entreprises sur leur stratégie.",
+    "job_city": "Toulon",
+    "company_id": 78,
+    "recruiter_id": 18
+  },
+  {
+    "id": 79,
+    "job_title": "Responsable de la logistique",
+    "job_description": "Gérer la chaîne d'approvisionnement.",
+    "job_city": "Laval",
+    "company_id": 79,
+    "recruiter_id": 19
+  },
+  {
+    "id": 80,
+    "job_title": "Ingénieur en génie civil",
+    "job_description": "Travailler sur des projets de construction.",
+    "job_city": "Pau",
+    "company_id": 80,
+    "recruiter_id": 20
+  },
+  {
+    "id": 81,
+    "job_title": "Chef de projet digital",
+    "job_description": "Gérer les projets numériques de l'entreprise.",
+    "job_city": "Évry",
+    "company_id": 81,
+    "recruiter_id": 1
+  },
+  {
+    "id": 82,
+    "job_title": "Médecin généraliste",
+    "job_description": "Fournir des soins médicaux aux patients.",
+    "job_city": "Le Havre",
+    "company_id": 82,
+    "recruiter_id": 2
+  },
+  {
+    "id": 83,
+    "job_title": "Spécialiste en marketing",
+    "job_description": "Élaborer des campagnes marketing.",
+    "job_city": "Colmar",
+    "company_id": 83,
+    "recruiter_id": 3
+  },
+  {
+    "id": 84,
+    "job_title": "Consultant en management",
+    "job_description": "Conseiller les entreprises sur leur management.",
+    "job_city": "Aix-en-Provence",
+    "company_id": 84,
+    "recruiter_id": 4
+  },
+  {
+    "id": 85,
+    "job_title": "Rédacteur technique",
+    "job_description": "Rédiger des documents techniques.",
+    "job_city": "Saint-Denis",
+    "company_id": 85,
+    "recruiter_id": 5
+  },
+  {
+    "id": 86,
+    "job_title": "Expert en données",
+    "job_description": "Analyser les données pour en tirer des insights.",
+    "job_city": "Toulouse",
+    "company_id": 86,
+    "recruiter_id": 6
+  },
+  {
+    "id": 87,
+    "job_title": "Responsable de la sécurité",
+    "job_description": "Assurer la sécurité des locaux de l'entreprise.",
+    "job_city": "Amiens",
+    "company_id": 87,
+    "recruiter_id": 7
+  },
+  {
+    "id": 88,
+    "job_title": "Chargé de mission développement durable",
+    "job_description": "Mettre en œuvre des projets de développement durable.",
+    "job_city": "Angers",
+    "company_id": 88,
+    "recruiter_id": 8
+  },
+  {
+    "id": 89,
+    "job_title": "Directeur artistique",
+    "job_description": "Gérer la direction artistique de projets créatifs.",
+    "job_city": "Nantes",
+    "company_id": 89,
+    "recruiter_id": 9
+  },
+  {
+    "id": 90,
+    "job_title": "Chargé de communication interne",
+    "job_description": "Gérer la communication au sein de l'entreprise.",
+    "job_city": "Saint-Étienne",
+    "company_id": 90,
+    "recruiter_id": 10
+  },
+  {
+    "id": 91,
+    "job_title": "Développeur Node.js",
+    "job_description": "Développer des applications avec Node.js.",
+    "job_city": "Rouen",
+    "company_id": 91,
+    "recruiter_id": 1
+  },
+  {
+    "id": 92,
+    "job_title": "Chef de projet senior",
+    "job_description": "Gérer des projets complexes.",
+    "job_city": "Lille",
+    "company_id": 92,
+    "recruiter_id": 2
+  },
+  {
+    "id": 93,
+    "job_title": "Commercial export",
+    "job_description": "Développer les ventes à l'international.",
+    "job_city": "Brest",
+    "company_id": 93,
+    "recruiter_id": 3
+  },
+  {
+    "id": 94,
+    "job_title": "Architecte réseau",
+    "job_description": "Concevoir l'architecture des réseaux.",
+    "job_city": "Avignon",
+    "company_id": 94,
+    "recruiter_id": 4
+  },
+  {
+    "id": 95,
+    "job_title": "Technicien de laboratoire",
+    "job_description": "Travailler dans un laboratoire scientifique.",
+    "job_city": "Nantes",
+    "company_id": 95,
+    "recruiter_id": 5
+  },
+  {
+    "id": 96,
+    "job_title": "Gestionnaire de portefeuille",
+    "job_description": "Gérer les investissements de clients.",
+    "job_city": "Lille",
+    "company_id": 96,
+    "recruiter_id": 6
+  },
+  {
+    "id": 97,
+    "job_title": "Développeur de jeux vidéo",
+    "job_description": "Créer des jeux vidéo innovants.",
+    "job_city": "Marseille",
+    "company_id": 97,
+    "recruiter_id": 7
+  },
+  {
+    "id": 98,
+    "job_title": "Contrôleur qualité",
+    "job_description": "Assurer la qualité des produits.",
+    "job_city": "Toulouse",
+    "company_id": 98,
+    "recruiter_id": 8
+  },
+  {
+    "id": 99,
+    "job_title": "Ingénieur de recherche",
+    "job_description": "Travailler sur des projets de recherche avancée.",
+    "job_city": "Lyon",
+    "company_id": 99,
+    "recruiter_id": 9
+  },
+  {
+    "id": 100,
+    "job_title": "Directeur des opérations",
+    "job_description": "Superviser les opérations de l'entreprise.",
+    "job_city": "Paris",
+    "company_id": 100,
+    "recruiter_id": 10
+  }
+]

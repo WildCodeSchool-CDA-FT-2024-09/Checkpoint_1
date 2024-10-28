@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "job_offer_id": 58,
+    "candidat_id": 23
+  },
+  {
+    "id": 2,
+    "job_offer_id": 45,
+    "candidat_id": 13
+  },
+  {
+    "id": 3,
+    "job_offer_id": 5,
+    "candidat_id": 14
+  },
+  {
+    "id": 4,
+    "job_offer_id": 24,
+    "candidat_id": 10
+  },
+  {
+    "id": 5,
+    "job_offer_id": 68,
+    "candidat_id": 9
+  },
+  {
+    "id": 6,
+    "job_offer_id": 75,
+    "candidat_id": 18
+  },
+  {
+    "id": 7,
+    "job_offer_id": 38,
+    "candidat_id": 4
+  },
+  {
+    "id": 8,
+    "job_offer_id": 27,
+    "candidat_id": 8
+  },
+  {
+    "id": 9,
+    "job_offer_id": 55,
+    "candidat_id": 33
+  },
+  {
+    "id": 10,
+    "job_offer_id": 79,
+    "candidat_id": 3
+  },
+  {
+    "id": 11,
+    "job_offer_id": 14,
+    "candidat_id": 17
+  },
+  {
+    "id": 12,
+    "job_offer_id": 81,
+    "candidat_id": 6
+  },
+  {
+    "id": 13,
+    "job_offer_id": 9,
+    "candidat_id": 20
+  },
+  {
+    "id": 14,
+    "job_offer_id": 71,
+    "candidat_id": 1
+  },
+  {
+    "id": 15,
+    "job_offer_id": 66,
+    "candidat_id": 26
+  },
+  {
+    "id": 16,
+    "job_offer_id": 60,
+    "candidat_id": 30
+  },
+  {
+    "id": 17,
+    "job_offer_id": 1,
+    "candidat_id": 2
+  },
+  {
+    "id": 18,
+    "job_offer_id": 19,
+    "candidat_id": 28
+  },
+  {
+    "id": 19,
+    "job_offer_id": 7,
+    "candidat_id": 25
+  },
+  {
+    "id": 20,
+    "job_offer_id": 22,
+    "candidat_id": 21
+  },
+  {
+    "id": 21,
+    "job_offer_id": 76,
+    "candidat_id": 12
+  },
+  {
+    "id": 22,
+    "job_offer_id": 46,
+    "candidat_id": 15
+  },
+  {
+    "id": 23,
+    "job_offer_id": 54,
+    "candidat_id": 27
+  },
+  {
+    "id": 24,
+    "job_offer_id": 80,
+    "candidat_id": 29
+  },
+  {
+    "id": 25,
+    "job_offer_id": 20,
+    "candidat_id": 32
+  },
+  {
+    "id": 26,
+    "job_offer_id": 31,
+    "candidat_id": 5
+  },
+  {
+    "id": 27,
+    "job_offer_id": 70,
+    "candidat_id": 37
+  },
+  {
+    "id": 28,
+    "job_offer_id": 87,
+    "candidat_id": 36
+  },
+  {
+    "id": 29,
+    "job_offer_id": 88,
+    "candidat_id": 39
+  },
+  {
+    "id": 30,
+    "job_offer_id": 43,
+    "candidat_id": 40
+  },
+  {
+    "id": 31,
+    "job_offer_id": 86,
+    "candidat_id": 44
+  },
+  {
+    "id": 32,
+    "job_offer_id": 4,
+    "candidat_id": 41
+  },
+  {
+    "id": 33,
+    "job_offer_id": 69,
+    "candidat_id": 34
+  },
+  {
+    "id": 34,
+    "job_offer_id": 73,
+    "candidat_id": 42
+  },
+  {
+    "id": 35,
+    "job_offer_id": 59,
+    "candidat_id": 22
+  },
+  {
+    "id": 36,
+    "job_offer_id": 33,
+    "candidat_id": 35
+  },
+  {
+    "id": 37,
+    "job_offer_id": 15,
+    "candidat_id": 11
+  },
+  {
+    "id": 38,
+    "job_offer_id": 8,
+    "candidat_id": 38
+  },
+  {
+    "id": 39,
+    "job_offer_id": 65,
+    "candidat_id": 24
+  },
+  {
+    "id": 40,
+    "job_offer_id": 72,
+    "candidat_id": 45
+  },
+  {
+    "id": 41,
+    "job_offer_id": 16,
+    "candidat_id": 46
+  },
+  {
+    "id": 42,
+    "job_offer_id": 39,
+    "candidat_id": 47
+  },
+  {
+    "id": 43,
+    "job_offer_id": 42,
+    "candidat_id": 48
+  },
+  {
+    "id": 44,
+    "job_offer_id": 26,
+    "candidat_id": 49
+  },
+  {
+    "id": 45,
+    "job_offer_id": 64,
+    "candidat_id": 50
+  },
+  {
+    "id": 46,
+    "job_offer_id": 13,
+    "candidat_id": 51
+  },
+  {
+    "id": 47,
+    "job_offer_id": 10,
+    "candidat_id": 52
+  },
+  {
+    "id": 48,
+    "job_offer_id": 3,
+    "candidat_id": 53
+  },
+  {
+    "id": 49,
+    "job_offer_id": 25,
+    "candidat_id": 54
+  },
+  {
+    "id": 50,
+    "job_offer_id": 34,
+    "candidat_id": 55
+  },
+  {
+    "id": 51,
+    "job_offer_id": 11,
+    "candidat_id": 56
+  },
+  {
+    "id": 52,
+    "job_offer_id": 77,
+    "candidat_id": 57
+  },
+  {
+    "id": 53,
+    "job_offer_id": 61,
+    "candidat_id": 58
+  },
+  {
+    "id": 54,
+    "job_offer_id": 12,
+    "candidat_id": 59
+  },
+  {
+    "id": 55,
+    "job_offer_id": 2,
+    "candidat_id": 60
+  },
+  {
+    "id": 56,
+    "job_offer_id": 17,
+    "candidat_id": 61
+  },
+  {
+    "id": 57,
+    "job_offer_id": 35,
+    "candidat_id": 62
+  },
+  {
+    "id": 58,
+    "job_offer_id": 37,
+    "candidat_id": 63
+  },
+  {
+    "id": 59,
+    "job_offer_id": 74,
+    "candidat_id": 64
+  },
+  {
+    "id": 60,
+    "job_offer_id": 41,
+    "candidat_id": 65
+  },
+  {
+    "id": 61,
+    "job_offer_id": 49,
+    "candidat_id": 66
+  },
+  {
+    "id": 62,
+    "job_offer_id": 40,
+    "candidat_id": 67
+  },
+  {
+    "id": 63,
+    "job_offer_id": 30,
+    "candidat_id": 68
+  },
+  {
+    "id": 64,
+    "job_offer_id": 44,
+    "candidat_id": 69
+  },
+  {
+    "id": 65,
+    "job_offer_id": 23,
+    "candidat_id": 70
+  },
+  {
+    "id": 66,
+    "job_offer_id": 32,
+    "candidat_id": 71
+  },
+  {
+    "id": 67,
+    "job_offer_id": 50,
+    "candidat_id": 72
+  },
+  {
+    "id": 68,
+    "job_offer_id": 48,
+    "candidat_id": 73
+  },
+  {
+    "id": 69,
+    "job_offer_id": 82,
+    "candidat_id": 74
+  },
+  {
+    "id": 70,
+    "job_offer_id": 57,
+    "candidat_id": 75
+  },
+  {
+    "id": 71,
+    "job_offer_id": 47,
+    "candidat_id": 76
+  },
+  {
+    "id": 72,
+    "job_offer_id": 83,
+    "candidat_id": 77
+  },
+  {
+    "id": 73,
+    "job_offer_id": 17,
+    "candidat_id": 78
+  },
+  {
+    "id": 74,
+    "job_offer_id": 84,
+    "candidat_id": 79
+  },
+  {
+    "id": 75,
+    "job_offer_id": 82,
+    "candidat_id": 80
+  },
+  {
+    "id": 76,
+    "job_offer_id": 33,
+    "candidat_id": 81
+  },
+  {
+    "id": 77,
+    "job_offer_id": 36,
+    "candidat_id": 82
+  },
+  {
+    "id": 78,
+    "job_offer_id": 78,
+    "candidat_id": 83
+  },
+  {
+    "id": 79,
+    "job_offer_id": 74,
+    "candidat_id": 84
+  },
+  {
+    "id": 80,
+    "job_offer_id": 29,
+    "candidat_id": 85
+  },
+  {
+    "id": 81,
+    "job_offer_id": 90,
+    "candidat_id": 86
+  },
+  {
+    "id": 82,
+    "job_offer_id": 63,
+    "candidat_id": 87
+  },
+  {
+    "id": 83,
+    "job_offer_id": 85,
+    "candidat_id": 88
+  },
+  {
+    "id": 84,
+    "job_offer_id": 62,
+    "candidat_id": 89
+  },
+  {
+    "id": 85,
+    "job_offer_id": 71,
+    "candidat_id": 90
+  },
+  {
+    "id": 86,
+    "job_offer_id": 28,
+    "candidat_id": 91
+  },
+  {
+    "id": 87,
+    "job_offer_id": 81,
+    "candidat_id": 92
+  },
+  {
+    "id": 88,
+    "job_offer_id": 44,
+    "candidat_id": 93
+  },
+  {
+    "id": 89,
+    "job_offer_id": 87,
+    "candidat_id": 94
+  },
+  {
+    "id": 90,
+    "job_offer_id": 53,
+    "candidat_id": 95
+  },
+  {
+    "id": 91,
+    "job_offer_id": 88,
+    "candidat_id": 96
+  },
+  {
+    "id": 92,
+    "job_offer_id": 72,
+    "candidat_id": 97
+  },
+  {
+    "id": 93,
+    "job_offer_id": 19,
+    "candidat_id": 98
+  },
+  {
+    "id": 94,
+    "job_offer_id": 13,
+    "candidat_id": 99
+  },
+  {
+    "id": 95,
+    "job_offer_id": 69,
+    "candidat_id": 100
+  },
+  {
+    "id": 96,
+    "job_offer_id": 29,
+    "candidat_id": 45
+  },
+  {
+    "id": 97,
+    "job_offer_id": 41,
+    "candidat_id": 36
+  },
+  {
+    "id": 98,
+    "job_offer_id": 51,
+    "candidat_id": 37
+  },
+  {
+    "id": 99,
+    "job_offer_id": 60,
+    "candidat_id": 12
+  },
+  {
+    "id": 100,
+    "job_offer_id": 52,
+    "candidat_id": 22
+  }
+]
