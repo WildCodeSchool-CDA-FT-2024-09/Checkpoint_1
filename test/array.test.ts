@@ -14,4 +14,15 @@ describe("Array", () => {
     expect(newArray.value).toHaveLength(1);
     expect(result).toEqual(1);
   });
+
+  it("should delete the last element in the array and return it", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    newArray.push("b");
+    newArray.push("c");
+
+    const lastElem = newArray.pop();
+    expect(lastElem).toEqual("c");
+    expect(newArray.value).toEqual(["a", "b"]);
+  })
 });
