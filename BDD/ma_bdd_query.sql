@@ -72,4 +72,9 @@ INSERT INTO Candidat_Offres (candidats_id, offres_id, a_candidate) VALUES
 (5, 17, TRUE),
 (6, 18, TRUE),
 (7, 19, TRUE),
-(8, 20, TRUE);
+(8, 20, TRUE),
+(8, 5, TRUE),
+(9, 5, TRUE),
+(10, 5, TRUE),
+(11, 5, TRUE),
+(12, 5, TRUE);
