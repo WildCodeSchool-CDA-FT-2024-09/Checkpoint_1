@@ -24,5 +24,16 @@ describe("Array", () => {
     const lastElem = newArray.pop();
     expect(lastElem).toEqual("c");
     expect(newArray.value).toEqual(["a", "b"]);
+  });
+
+  it("should delete the first element in the array and return it", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    newArray.push("b");
+    newArray.push("c");
+
+    const firstElem = newArray.shift();
+    expect(firstElem).toEqual("a");
+    expect(newArray.value).toEqual(["b", "c"]);
   })
 });
