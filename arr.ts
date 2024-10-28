@@ -11,6 +11,40 @@ class Arr {
     this.value = array;
     return this.value.length;
   }
+
+  pop(): string | undefined {
+    if (this.value.length === 0) {
+      return undefined;
+    }
+
+    const lastElement = this.value[this.value.length - 1];
+    const newArray = new Array(this.value.length - 1);
+
+    for (let i = 0; i < newArray.length; i++) {
+      newArray[i] = this.value[i];
+    }
+
+    this.value = newArray;
+    return lastElement;
+  }
+
+  length(): number {
+    return this.value.length;
+  }
+  shift(): string | undefined {
+    if (this.value.length === 0) {
+      return undefined;
+    }
+    const firstElement = this.value[0];
+    const newArray = new Array(this.value.length - 1);
+
+    for (let i = 0; i < newArray.length; i++) {
+      newArray[i] = this.value[i + 1];
+    }
+
+    this.value = newArray;
+    return firstElement;
+  }
 }
 
 export default Arr;
