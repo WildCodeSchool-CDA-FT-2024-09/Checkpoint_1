@@ -1,0 +1,1 @@
+select * from candidates as c inner join offers_by_candidate as obc on c.id = obc.candidate_id where obc.offer_id = 1;
