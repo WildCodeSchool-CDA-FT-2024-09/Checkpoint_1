@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "login": "candidat_1",
+    "mot_de_passe": "password1",
+    "nom": "Dupont",
+    "prénom": "Alice",
+    "email": "alice.dupont@example.com",
+    "num_téléphone": 612345678,
+    "texte_présentation": "Je suis une développeuse passionnée."
+  },
+  {
+    "id": 2,
+    "login": "candidat_2",
+    "mot_de_passe": "password2",
+    "nom": "Martin",
+    "prénom": "Bob",
+    "email": "bob.martin@example.com",
+    "num_téléphone": 612345679,
+    "texte_présentation": "Ingénieur en systèmes d'information."
+  },
+  {
+    "id": 3,
+    "login": "candidat_3",
+    "mot_de_passe": "password3",
+    "nom": "Bernard",
+    "prénom": "Charlie",
+    "email": "charlie.bernard@example.com",
+    "num_téléphone": 612345680,
+    "texte_présentation": "Designer graphique avec 5 ans d'expérience."
+  },
+  {
+    "id": 4,
+    "login": "candidat_4",
+    "mot_de_passe": "password4",
+    "nom": "Dubois",
+    "prénom": "David",
+    "email": "david.dubois@example.com",
+    "num_téléphone": 612345681,
+    "texte_présentation": "Chef de projet certifié."
+  },
+  {
+    "id": 5,
+    "login": "candidat_5",
+    "mot_de_passe": "password5",
+    "nom": "Moreau",
+    "prénom": "Eva",
+    "email": "eva.moreau@example.com",
+    "num_téléphone": 612345682,
+    "texte_présentation": "Expert en marketing digital."
+  },
+  {
+    "id": 6,
+    "login": "candidat_6",
+    "mot_de_passe": "password6",
+    "nom": "Leroy",
+    "prénom": "François",
+    "email": "francois.leroy@example.com",
+    "num_téléphone": 612345683,
+    "texte_présentation": "Développeur web passionné par l'IA."
+  },
+  {
+    "id": 7,
+    "login": "candidat_7",
+    "mot_de_passe": "password7",
+    "nom": "Lévesque",
+    "prénom": "Gérome",
+    "email": "gerome.levesque@example.com",
+    "num_téléphone": 612345684,
+    "texte_présentation": "Traducteur expérimenté."
+  },
+  {
+    "id": 8,
+    "login": "candidat_8",
+    "mot_de_passe": "password8",
+    "nom": "Roux",
+    "prénom": "Hélène",
+    "email": "helene.roux@example.com",
+    "num_téléphone": 612345685,
+    "texte_présentation": "Gestionnaire de projet."
+  },
+  {
+    "id": 9,
+    "login": "candidat_9",
+    "mot_de_passe": "password9",
+    "nom": "Lemoine",
+    "prénom": "Isabelle",
+    "email": "isabelle.lemoine@example.com",
+    "num_téléphone": 612345686,
+    "texte_présentation": "Analyste financier."
+  },
+  {
+    "id": 10,
+    "login": "candidat_10",
+    "mot_de_passe": "password10",
+    "nom": "Petit",
+    "prénom": "Jules",
+    "email": "jules.petit@example.com",
+    "num_téléphone": 612345687,
+    "texte_présentation": "Responsable de la communication."
+  },
+  {
+    "id": 11,
+    "login": "candidat_11",
+    "mot_de_passe": "password11",
+    "nom": "Gauthier",
+    "prénom": "Karine",
+    "email": "karine.gauthier@example.com",
+    "num_téléphone": 612345688,
+    "texte_présentation": "Spécialiste en cybersécurité."
+  },
+  {
+    "id": 12,
+    "login": "candidat_12",
+    "mot_de_passe": "password12",
+    "nom": "Simon",
+    "prénom": "Louis",
+    "email": "louis.simon@example.com",
+    "num_téléphone": 612345689,
+    "texte_présentation": "Développeur mobile."
+  },
+  {
+    "id": 13,
+    "login": "candidat_13",
+    "mot_de_passe": "password13",
+    "nom": "Blanc",
+    "prénom": "Marianne",
+    "email": "marianne.blanc@example.com",
+    "num_téléphone": 612345690,
+    "texte_présentation": "Chef de produit."
+  },
+  {
+    "id": 14,
+    "login": "candidat_14",
+    "mot_de_passe": "password14",
+    "nom": "Henry",
+    "prénom": "Nicolas",
+    "email": "nicolas.henry@example.com",
+    "num_téléphone": 612345691,
+    "texte_présentation": "Consultant en stratégie."
+  },
+  {
+    "id": 15,
+    "login": "candidat_15",
+    "mot_de_passe": "password15",
+    "nom": "Garnier",
+    "prénom": "Odette",
+    "email": "odette.garnier@example.com",
+    "num_téléphone": 612345692,
+    "texte_présentation": "Graphiste."
+  },
+  {
+    "id": 16,
+    "login": "candidat_16",
+    "mot_de_passe": "password16",
+    "nom": "Bertrand",
+    "prénom": "Paul",
+    "email": "paul.bertrand@example.com",
+    "num_téléphone": 612345693,
+    "texte_présentation": "Chargé de recrutement."
+  },
+  {
+    "id": 17,
+    "login": "candidat_17",
+    "mot_de_passe": "password17",
+    "nom": "Perrin",
+    "prénom": "Quentin",
+    "email": "quentin.perrin@example.com",
+    "num_téléphone": 612345694,
+    "texte_présentation": "Webmaster."
+  },
+  {
+    "id": 18,
+    "login": "candidat_18",
+    "mot_de_passe": "password18",
+    "nom": "Renaud",
+    "prénom": "Romain",
+    "email": "romain.renaud@example.com",
+    "num_téléphone": 612345695,
+    "texte_présentation": "Ingénieur logiciel."
+  },
+  {
+    "id": 19,
+    "login": "candidat_19",
+    "mot_de_passe": "password19",
+    "nom": "Collet",
+    "prénom": "Sophie",
+    "email": "sophie.collet@example.com",
+    "num_téléphone": 612345696,
+    "texte_présentation": "Spécialiste des ressources humaines."
+  },
+  {
+    "id": 20,
+    "login": "candidat_20",
+    "mot_de_passe": "password20",
+    "nom": "Dumas",
+    "prénom": "Théo",
+    "email": "theo.dumas@example.com",
+    "num_téléphone": 612345697,
+    "texte_présentation": "Expert en SEO."
+  },
+  {
+    "id": 21,
+    "login": "candidat_21",
+    "mot_de_passe": "password21",
+    "nom": "Langlois",
+    "prénom": "Ursule",
+    "email": "ursule.langlois@example.com",
+    "num_téléphone": 612345698,
+    "texte_présentation": "Photographe."
+  },
+  {
+    "id": 22,
+    "login": "candidat_22",
+    "mot_de_passe": "password22",
+    "nom": "Olivier",
+    "prénom": "Victor",
+    "email": "victor.olivier@example.com",
+    "num_téléphone": 612345699,
+    "texte_présentation": "Développeur de jeux vidéo."
+  },
+  {
+    "id": 23,
+    "login": "candidat_23",
+    "mot_de_passe": "password23",
+    "nom": "Lemoine",
+    "prénom": "Wendy",
+    "email": "wendy.lemoine@example.com",
+    "num_téléphone": 612345700,
+    "texte_présentation": "Responsable de la logistique."
+  },
+  {
+    "id": 24,
+    "login": "candidat_24",
+    "mot_de_passe": "password24",
+    "nom": "Faure",
+    "prénom": "Xavier",
+    "email": "xavier.faure@example.com",
+    "num_téléphone": 612345701,
+    "texte_présentation": "Analyste de données."
+  },
+  {
+    "id": 25,
+    "login": "candidat_25",
+    "mot_de_passe": "password25",
+    "nom": "Gilles",
+    "prénom": "Yasmine",
+    "email": "yasmine.gilles@example.com",
+    "num_téléphone": 612345702,
+    "texte_présentation": "Responsable qualité."
+  },
+  {
+    "id": 26,
+    "login": "candidat_26",
+    "mot_de_passe": "password26",
+    "nom": "Henry",
+    "prénom": "Zacharie",
+    "email": "zacharie.henry@example.com",
+    "num_téléphone": 612345703,
+    "texte_présentation": "Spécialiste en ventes."
+  },
+  {
+    "id": 27,
+    "login": "candidat_27",
+    "mot_de_passe": "password27",
+    "nom": "Joly",
+    "prénom": "Adèle",
+    "email": "adele.joly@example.com",
+    "num_téléphone": 612345704,
+    "texte_présentation": "Économiste."
+  },
+  {
+    "id": 28,
+    "login": "candidat_28",
+    "mot_de_passe": "password28",
+    "nom": "Dufour",
+    "prénom": "Bastien",
+    "email": "bastien.dufour@example.com",
+    "num_téléphone": 612345705,
+    "texte_présentation": "Webmaster."
+  },
+  {
+    "id": 29,
+    "login": "candidat_29",
+    "mot_de_passe": "password29",
+    "nom": "Lebrun",
+    "prénom": "Céline",
+    "email": "celine.lebrun@example.com",
+    "num_téléphone": 612345706,
+    "texte_présentation": "Coordinatrice de projet."
+  },
+  {
+    "id": 30,
+    "login": "candidat_30",
+    "mot_de_passe": "password30",
+    "nom": "Bouchard",
+    "prénom": "Diane",
+    "email": "diane.bouchard@example.com",
+    "num_téléphone": 612345707,
+    "texte_présentation": "Développeuse Full Stack."
+  },
+  {
+    "id": 31,
+    "login": "candidat_31",
+    "mot_de_passe": "password31",
+    "nom": "Guérin",
+    "prénom": "Émile",
+    "email": "emile.guerin@example.com",
+    "num_téléphone": 612345708,
+    "texte_présentation": "Mécanicien."
+  },
+  {
+    "id": 32,
+    "login": "candidat_32",
+    "mot_de_passe": "password32",
+    "nom": "Lapierre",
+    "prénom": "Fiona",
+    "email": "fiona.lapierre@example.com",
+    "num_téléphone": 612345709,
+    "texte_présentation": "Ingénieur environnemental."
+  },
+  {
+    "id": 33,
+    "login": "candidat_33",
+    "mot_de_passe": "password33",
+    "nom": "Gaucher",
+    "prénom": "Gabriel",
+    "email": "gabriel.gaucher@example.com",
+    "num_téléphone": 612345710,
+    "texte_présentation": "Responsable IT."
+  },
+  {
+    "id": 34,
+    "login": "candidat_34",
+    "mot_de_passe": "password34",
+    "nom": "David",
+    "prénom": "Julien",
+    "email": "julien.david@example.com",
+    "num_téléphone": 612345711,
+    "texte_présentation": "Auditeur interne."
+  },
+  {
+    "id": 35,
+    "login": "candidat_35",
+    "mot_de_passe": "password35",
+    "nom": "Richard",
+    "prénom": "Léa",
+    "email": "lea.richard@example.com",
+    "num_téléphone": 612345712,
+    "texte_présentation": "Consultante en développement durable."
+  },
+  {
+    "id": 36,
+    "login": "candidat_36",
+    "mot_de_passe": "password36",
+    "nom": "Charpentier",
+    "prénom": "Maxime",
+    "email": "maxime.charpentier@example.com",
+    "num_téléphone": 612345713,
+    "texte_présentation": "Photographe de mode."
+  },
+  {
+    "id": 37,
+    "login": "candidat_37",
+    "mot_de_passe": "password37",
+    "nom": "Roux",
+    "prénom": "Noémie",
+    "email": "noemie.roux@example.com",
+    "num_téléphone": 612345714,
+    "texte_présentation": "Chef de produit digital."
+  },
+  {
+    "id": 38,
+    "login": "candidat_38",
+    "mot_de_passe": "password38",
+    "nom": "Mercier",
+    "prénom": "Olivier",
+    "email": "olivier.mercier@example.com",
+    "num_téléphone": 612345715,
+    "texte_présentation": "Data analyst."
+  },
+  {
+    "id": 39,
+    "login": "candidat_39",
+    "mot_de_passe": "password39",
+    "nom": "Leroux",
+    "prénom": "Pauline",
+    "email": "pauline.leroux@example.com",
+    "num_téléphone": 612345716,
+    "texte_présentation": "Directrice marketing."
+  },
+  {
+    "id": 40,
+    "login": "candidat_40",
+    "mot_de_passe": "password40",
+    "nom": "Mathieu",
+    "prénom": "Quentin",
+    "email": "quentin.mathieu@example.com",
+    "num_téléphone": 612345717,
+    "texte_présentation": "Commercial."
+  },
+  {
+    "id": 41,
+    "login": "candidat_41",
+    "mot_de_passe": "password41",
+    "nom": "Robert",
+    "prénom": "Rose",
+    "email": "rose.robert@example.com",
+    "num_téléphone": 612345718,
+    "texte_présentation": "Spécialiste en e-commerce."
+  },
+  {
+    "id": 42,
+    "login": "candidat_42",
+    "mot_de_passe": "password42",
+    "nom": "Fournier",
+    "prénom": "Sylvain",
+    "email": "sylvain.fournier@example.com",
+    "num_téléphone": 612345719,
+    "texte_présentation": "Expert en cloud computing."
+  },
+  {
+    "id": 43,
+    "login": "candidat_43",
+    "mot_de_passe": "password43",
+    "nom": "Lemoine",
+    "prénom": "Tania",
+    "email": "tania.lemoine@example.com",
+    "num_téléphone": 612345720,
+    "texte_présentation": "Conseillère en communication."
+  },
+  {
+    "id": 44,
+    "login": "candidat_44",
+    "mot_de_passe": "password44",
+    "nom": "Bernard",
+    "prénom": "Ugo",
+    "email": "ugo.bernard@example.com",
+    "num_téléphone": 612345721,
+    "texte_présentation": "Technicien de maintenance."
+  },
+  {
+    "id": 45,
+    "login": "candidat_45",
+    "mot_de_passe": "password45",
+    "nom": "Boucher",
+    "prénom": "Valérie",
+    "email": "valerie.boucher@example.com",
+    "num_téléphone": 612345722,
+    "texte_présentation": "Développeuse PHP."
+  },
+  {
+    "id": 46,
+    "login": "candidat_46",
+    "mot_de_passe": "password46",
+    "nom": "Renaud",
+    "prénom": "William",
+    "email": "william.renaud@example.com",
+    "num_téléphone": 612345723,
+    "texte_présentation": "Architecte."
+  },
+  {
+    "id": 47,
+    "login": "candidat_47",
+    "mot_de_passe": "password47",
+    "nom": "Lemoine",
+    "prénom": "Xavier",
+    "email": "xavier.lemoine@example.com",
+    "num_téléphone": 612345724,
+    "texte_présentation": "Spécialiste en logistique."
+  },
+  {
+    "id": 48,
+    "login": "candidat_48",
+    "mot_de_passe": "password48",
+    "nom": "Faure",
+    "prénom": "Yvonne",
+    "email": "yvonne.faure@example.com",
+    "num_téléphone": 612345725,
+    "texte_présentation": "Directrice artistique."
+  },
+  {
+    "id": 49,
+    "login": "candidat_49",
+    "mot_de_passe": "password49",
+    "nom": "Garnier",
+    "prénom": "Zoe",
+    "email": "zoe.garnier@example.com",
+    "num_téléphone": 612345726,
+    "texte_présentation": "Consultante en ressources humaines."
+  },
+  {
+    "id": 50,
+    "login": "candidat_50",
+    "mot_de_passe": "password50",
+    "nom": "Charpentier",
+    "prénom": "Alain",
+    "email": "alain.charpentier@example.com",
+    "num_téléphone": 612345727,
+    "texte_présentation": "Mécanicien automobile."
+  }
+]

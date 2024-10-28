@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "titre_du_poste": "Développeur Frontend",
+    "description_poste": "Nous recherchons un développeur frontend talentueux.",
+    "ville_poste": "Paris",
+    "entreprise_id": 1,
+    "recruteur_id": 1
+  },
+  {
+    "id": 2,
+    "titre_du_poste": "Développeur Backend",
+    "description_poste": "Rejoignez notre équipe en tant que développeur backend.",
+    "ville_poste": "Lyon",
+    "entreprise_id": 2,
+    "recruteur_id": 2
+  },
+  {
+    "id": 3,
+    "titre_du_poste": "Chef de projet IT",
+    "description_poste": "Gérer des projets innovants dans le secteur technologique.",
+    "ville_poste": "Marseille",
+    "entreprise_id": 3,
+    "recruteur_id": 3
+  },
+  {
+    "id": 4,
+    "titre_du_poste": "Graphiste",
+    "description_poste": "Concevoir des visuels pour nos clients.",
+    "ville_poste": "Bordeaux",
+    "entreprise_id": 4,
+    "recruteur_id": 4
+  },
+  {
+    "id": 5,
+    "titre_du_poste": "Responsable marketing digital",
+    "description_poste": "Élaborer des stratégies de marketing en ligne.",
+    "ville_poste": "Toulouse",
+    "entreprise_id": 5,
+    "recruteur_id": 5
+  },
+  {
+    "id": 6,
+    "titre_du_poste": "Ingénieur logiciel",
+    "description_poste": "Développer des solutions logicielles pour nos clients.",
+    "ville_poste": "Nice",
+    "entreprise_id": 6,
+    "recruteur_id": 6
+  },
+  {
+    "id": 7,
+    "titre_du_poste": "Analyste de données",
+    "description_poste": "Analyser les données pour aider à la prise de décisions.",
+    "ville_poste": "Lille",
+    "entreprise_id": 7,
+    "recruteur_id": 7
+  },
+  {
+    "id": 8,
+    "titre_du_poste": "Technicien support",
+    "description_poste": "Fournir un support technique aux utilisateurs.",
+    "ville_poste": "Nantes",
+    "entreprise_id": 8,
+    "recruteur_id": 8
+  },
+  {
+    "id": 9,
+    "titre_du_poste": "Responsable des ventes",
+    "description_poste": "Gérer l'équipe de vente et atteindre les objectifs.",
+    "ville_poste": "Strasbourg",
+    "entreprise_id": 9,
+    "recruteur_id": 9
+  },
+  {
+    "id": 10,
+    "titre_du_poste": "Développeur Full Stack",
+    "description_poste": "Travailler sur le front et le back-end des applications.",
+    "ville_poste": "Montpellier",
+    "entreprise_id": 10,
+    "recruteur_id": 10
+  },
+  {
+    "id": 11,
+    "titre_du_poste": "Community Manager",
+    "description_poste": "Gérer notre présence sur les réseaux sociaux.",
+    "ville_poste": "Rennes",
+    "entreprise_id": 11,
+    "recruteur_id": 11
+  },
+  {
+    "id": 12,
+    "titre_du_poste": "Consultant en ressources humaines",
+    "description_poste": "Aider les entreprises à gérer leurs ressources humaines.",
+    "ville_poste": "Saint-Étienne",
+    "entreprise_id": 12,
+    "recruteur_id": 12
+  },
+  {
+    "id": 13,
+    "titre_du_poste": "Responsable de la communication",
+    "description_poste": "Élaborer des stratégies de communication.",
+    "ville_poste": "Toulon",
+    "entreprise_id": 13,
+    "recruteur_id": 13
+  },
+  {
+    "id": 14,
+    "titre_du_poste": "Formateur",
+    "description_poste": "Former les employés sur les nouveaux outils.",
+    "ville_poste": "Angers",
+    "entreprise_id": 14,
+    "recruteur_id": 14
+  },
+  {
+    "id": 15,
+    "titre_du_poste": "Développeur mobile",
+    "description_poste": "Développer des applications pour smartphones.",
+    "ville_poste": "Clermont-Ferrand",
+    "entreprise_id": 15,
+    "recruteur_id": 15
+  },
+  {
+    "id": 16,
+    "titre_du_poste": "Designer UI/UX",
+    "description_poste": "Créer des expériences utilisateurs engageantes.",
+    "ville_poste": "Reims",
+    "entreprise_id": 16,
+    "recruteur_id": 16
+  },
+  {
+    "id": 17,
+    "titre_du_poste": "Ingénieur réseaux",
+    "description_poste": "Gérer et optimiser nos réseaux informatiques.",
+    "ville_poste": "Le Havre",
+    "entreprise_id": 17,
+    "recruteur_id": 17
+  },
+  {
+    "id": 18,
+    "titre_du_poste": "Chef de produit",
+    "description_poste": "Gérer le cycle de vie des produits.",
+    "ville_poste": "Saint-Denis",
+    "entreprise_id": 18,
+    "recruteur_id": 18
+  },
+  {
+    "id": 19,
+    "titre_du_poste": "Responsable qualité",
+    "description_poste": "Assurer la qualité des produits et services.",
+    "ville_poste": "Grenoble",
+    "entreprise_id": 19,
+    "recruteur_id": 19
+  },
+  {
+    "id": 20,
+    "titre_du_poste": "Chargé de mission",
+    "description_poste": "Accompagner les projets de l'entreprise.",
+    "ville_poste": "Nanterre",
+    "entreprise_id": 20,
+    "recruteur_id": 20
+  },
+  {
+    "id": 21,
+    "titre_du_poste": "Développeur Python",
+    "description_poste": "Développer des applications avec Python.",
+    "ville_poste": "Versailles",
+    "entreprise_id": 21,
+    "recruteur_id": 1
+  },
+  {
+    "id": 22,
+    "titre_du_poste": "Chef de projet junior",
+    "description_poste": "Assister le chef de projet senior.",
+    "ville_poste": "Amiens",
+    "entreprise_id": 22,
+    "recruteur_id": 2
+  },
+  {
+    "id": 23,
+    "titre_du_poste": "Responsable e-commerce",
+    "description_poste": "Gérer les ventes en ligne.",
+    "ville_poste": "Perpignan",
+    "entreprise_id": 23,
+    "recruteur_id": 3
+  },
+  {
+    "id": 24,
+    "titre_du_poste": "Développeur Java",
+    "description_poste": "Créer des applications Java.",
+    "ville_poste": "Brest",
+    "entreprise_id": 24,
+    "recruteur_id": 4
+  },
+  {
+    "id": 25,
+    "titre_du_poste": "Analyste fonctionnel",
+    "description_poste": "Analyser les besoins des clients.",
+    "ville_poste": "La Rochelle",
+    "entreprise_id": 25,
+    "recruteur_id": 5
+  },
+  {
+    "id": 26,
+    "titre_du_poste": "Commercial",
+    "description_poste": "Vendre nos services et produits.",
+    "ville_poste": "Avignon",
+    "entreprise_id": 26,
+    "recruteur_id": 6
+  },
+  {
+    "id": 27,
+    "titre_du_poste": "Spécialiste SEO",
+    "description_poste": "Optimiser notre visibilité sur le web.",
+    "ville_poste": "Nancy",
+    "entreprise_id": 27,
+    "recruteur_id": 7
+  },
+  {
+    "id": 28,
+    "titre_du_poste": "Développeur Ruby",
+    "description_poste": "Développer des applications Ruby.",
+    "ville_poste": "Lille",
+    "entreprise_id": 28,
+    "recruteur_id": 8
+  },
+  {
+    "id": 29,
+    "titre_du_poste": "Chargé de communication",
+    "description_poste": "Gérer les relations publiques de l'entreprise.",
+    "ville_poste": "Tours",
+    "entreprise_id": 29,
+    "recruteur_id": 9
+  },
+  {
+    "id": 30,
+    "titre_du_poste": "Product Owner",
+    "description_poste": "Gérer le développement du produit.",
+    "ville_poste": "Orléans",
+    "entreprise_id": 30,
+    "recruteur_id": 10
+  },
+  {
+    "id": 31,
+    "titre_du_poste": "Technicien informatique",
+    "description_poste": "Assurer le bon fonctionnement des systèmes.",
+    "ville_poste": "Lille",
+    "entreprise_id": 31,
+    "recruteur_id": 11
+  },
+  {
+    "id": 32,
+    "titre_du_poste": "Auditeur",
+    "description_poste": "Effectuer des audits de conformité.",
+    "ville_poste": "Avignon",
+    "entreprise_id": 32,
+    "recruteur_id": 12
+  },
+  {
+    "id": 33,
+    "titre_du_poste": "Chargé de projet",
+    "description_poste": "Gérer des projets variés.",
+    "ville_poste": "Clermont-Ferrand",
+    "entreprise_id": 33,
+    "recruteur_id": 13
+  },
+  {
+    "id": 34,
+    "titre_du_poste": "Développeur .NET",
+    "description_poste": "Créer des applications avec .NET.",
+    "ville_poste": "Roubaix",
+    "entreprise_id": 34,
+    "recruteur_id": 14
+  },
+  {
+    "id": 35,
+    "titre_du_poste": "Contrôleur de gestion",
+    "description_poste": "Analyser et suivre les budgets.",
+    "ville_poste": "Saint-Malo",
+    "entreprise_id": 35,
+    "recruteur_id": 15
+  },
+  {
+    "id": 36,
+    "titre_du_poste": "Chef de produit technique",
+    "description_poste": "Gérer le développement technique des produits.",
+    "ville_poste": "Bourges",
+    "entreprise_id": 36,
+    "recruteur_id": 16
+  },
+  {
+    "id": 37,
+    "titre_du_poste": "Consultant IT",
+    "description_poste": "Accompagner les entreprises dans leurs projets IT.",
+    "ville_poste": "Aix-en-Provence",
+    "entreprise_id": 37,
+    "recruteur_id": 17
+  },
+  {
+    "id": 38,
+    "titre_du_poste": "Responsable de la sécurité informatique",
+    "description_poste": "Assurer la sécurité des données.",
+    "ville_poste": "Laval",
+    "entreprise_id": 38,
+    "recruteur_id": 18
+  },
+  {
+    "id": 39,
+    "titre_du_poste": "Data Scientist",
+    "description_poste": "Analyser et interpréter des données complexes.",
+    "ville_poste": "Chalon-sur-Saône",
+    "entreprise_id": 39,
+    "recruteur_id": 19
+  },
+  {
+    "id": 40,
+    "titre_du_poste": "Directeur marketing",
+    "description_poste": "Élaborer la stratégie marketing de l'entreprise.",
+    "ville_poste": "La Roche-sur-Yon",
+    "entreprise_id": 40,
+    "recruteur_id": 20
+  },
+  {
+    "id": 41,
+    "titre_du_poste": "Développeur C#",
+    "description_poste": "Développer des applications en C#.",
+    "ville_poste": "Colmar",
+    "entreprise_id": 41,
+    "recruteur_id": 1
+  },
+  {
+    "id": 42,
+    "titre_du_poste": "Ingénieur en systèmes embarqués",
+    "description_poste": "Travailler sur des systèmes embarqués innovants.",
+    "ville_poste": "Agen",
+    "entreprise_id": 42,
+    "recruteur_id": 2
+  },
+  {
+    "id": 43,
+    "titre_du_poste": "Responsable des opérations",
+    "description_poste": "Optimiser les processus opérationnels.",
+    "ville_poste": "Antibes",
+    "entreprise_id": 43,
+    "recruteur_id": 3
+  },
+  {
+    "id": 44,
+    "titre_du_poste": "Spécialiste en cybersécurité",
+    "description_poste": "Protéger les systèmes d'information contre les attaques.",
+    "ville_poste": "Évry",
+    "entreprise_id": 44,
+    "recruteur_id": 4
+  },
+  {
+    "id": 45,
+    "titre_du_poste": "Chargé de développement durable",
+    "description_poste": "Mettre en place des pratiques durables.",
+    "ville_poste": "Saint-Étienne",
+    "entreprise_id": 45,
+    "recruteur_id": 5
+  },
+  {
+    "id": 46,
+    "titre_du_poste": "Directeur technique",
+    "description_poste": "Superviser les équipes techniques.",
+    "ville_poste": "Béziers",
+    "entreprise_id": 46,
+    "recruteur_id": 6
+  },
+  {
+    "id": 47,
+    "titre_du_poste": "Responsable de la recherche et développement",
+    "description_poste": "Encadrer les projets de R&D.",
+    "ville_poste": "Pau",
+    "entreprise_id": 47,
+    "recruteur_id": 7
+  },
+  {
+    "id": 48,
+    "titre_du_poste": "Médecin",
+    "description_poste": "Fournir des soins médicaux aux patients.",
+    "ville_poste": "Nice",
+    "entreprise_id": 48,
+    "recruteur_id": 8
+  },
+  {
+    "id": 49,
+    "titre_du_poste": "Vétérinaire",
+    "description_poste": "Soigner les animaux.",
+    "ville_poste": "Lyon",
+    "entreprise_id": 49,
+    "recruteur_id": 9
+  },
+  {
+    "id": 50,
+    "titre_du_poste": "Pharmacien",
+    "description_poste": "Conseiller les patients sur les médicaments.",
+    "ville_poste": "Marseille",
+    "entreprise_id": 50,
+    "recruteur_id": 10
+  },
+  {
+    "id": 51,
+    "titre_du_poste": "Chef cuisinier",
+    "description_poste": "Gérer la cuisine d'un restaurant.",
+    "ville_poste": "Toulon",
+    "entreprise_id": 51,
+    "recruteur_id": 11
+  },
+  {
+    "id": 52,
+    "titre_du_poste": "Conducteur de travaux",
+    "description_poste": "Superviser les chantiers de construction.",
+    "ville_poste": "Nantes",
+    "entreprise_id": 52,
+    "recruteur_id": 12
+  },
+  {
+    "id": 53,
+    "titre_du_poste": "Mécanicien",
+    "description_poste": "Entretenir et réparer des véhicules.",
+    "ville_poste": "Lille",
+    "entreprise_id": 53,
+    "recruteur_id": 13
+  },
+  {
+    "id": 54,
+    "titre_du_poste": "Électricien",
+    "description_poste": "Installer et entretenir des systèmes électriques.",
+    "ville_poste": "Rouen",
+    "entreprise_id": 54,
+    "recruteur_id": 14
+  },
+  {
+    "id": 55,
+    "titre_du_poste": "Maçon",
+    "description_poste": "Construire des structures en maçonnerie.",
+    "ville_poste": "Strasbourg",
+    "entreprise_id": 55,
+    "recruteur_id": 15
+  },
+  {
+    "id": 56,
+    "titre_du_poste": "Pharmacien",
+    "description_poste": "Conseiller les patients sur les médicaments.",
+    "ville_poste": "Lyon",
+    "entreprise_id": 56,
+    "recruteur_id": 16
+  },
+  {
+    "id": 57,
+    "titre_du_poste": "Conducteur de bus",
+    "description_poste": "Transporter des passagers en toute sécurité.",
+    "ville_poste": "Bordeaux",
+    "entreprise_id": 57,
+    "recruteur_id": 17
+  },
+  {
+    "id": 58,
+    "titre_du_poste": "Aide-soignant",
+    "description_poste": "Assister les patients dans leurs soins quotidiens.",
+    "ville_poste": "Marseille",
+    "entreprise_id": 58,
+    "recruteur_id": 18
+  },
+  {
+    "id": 59,
+    "titre_du_poste": "Ingénieur civil",
+    "description_poste": "Travailler sur des projets d'infrastructure.",
+    "ville_poste": "Nice",
+    "entreprise_id": 59,
+    "recruteur_id": 19
+  },
+  {
+    "id": 60,
+    "titre_du_poste": "Architecte",
+    "description_poste": "Concevoir des bâtiments et des espaces.",
+    "ville_poste": "Toulouse",
+    "entreprise_id": 60,
+    "recruteur_id": 20
+  },
+  {
+    "id": 61,
+    "titre_du_poste": "Technicien de maintenance",
+    "description_poste": "Assurer la maintenance des équipements.",
+    "ville_poste": "Paris",
+    "entreprise_id": 61,
+    "recruteur_id": 1
+  },
+  {
+    "id": 62,
+    "titre_du_poste": "Assistant administratif",
+    "description_poste": "Gérer les tâches administratives.",
+    "ville_poste": "Marseille",
+    "entreprise_id": 62,
+    "recruteur_id": 2
+  },
+  {
+    "id": 63,
+    "titre_du_poste": "Directeur commercial",
+    "description_poste": "Développer la stratégie commerciale.",
+    "ville_poste": "Lyon",
+    "entreprise_id": 63,
+    "recruteur_id": 3
+  },
+  {
+    "id": 64,
+    "titre_du_poste": "Expert-comptable",
+    "description_poste": "Gérer les comptes des clients.",
+    "ville_poste": "Bordeaux",
+    "entreprise_id": 64,
+    "recruteur_id": 4
+  },
+  {
+    "id": 65,
+    "titre_du_poste": "Développeur SQL",
+    "description_poste": "Gérer les bases de données SQL.",
+    "ville_poste": "Toulouse",
+    "entreprise_id": 65,
+    "recruteur_id": 5
+  },
+  {
+    "id": 66,
+    "titre_du_poste": "Chargé de projet événementiel",
+    "description_poste": "Organiser des événements pour l'entreprise.",
+    "ville_poste": "Nantes",
+    "entreprise_id": 66,
+    "recruteur_id": 6
+  },
+  {
+    "id": 67,
+    "titre_du_poste": "Pilote de drone",
+    "description_poste": "Opérer des drones pour des missions variées.",
+    "ville_poste": "Lille",
+    "entreprise_id": 67,
+    "recruteur_id": 7
+  },
+  {
+    "id": 68,
+    "titre_du_poste": "Directeur des systèmes d'information",
+    "description_poste": "Superviser les systèmes d'information de l'entreprise.",
+    "ville_poste": "Grenoble",
+    "entreprise_id": 68,
+    "recruteur_id": 8
+  },
+  {
+    "id": 69,
+    "titre_du_poste": "Rédacteur web",
+    "description_poste": "Créer du contenu pour le site web.",
+    "ville_poste": "Tours",
+    "entreprise_id": 69,
+    "recruteur_id": 9
+  },
+  {
+    "id": 70,
+    "titre_du_poste": "Contrôleur de gestion",
+    "description_poste": "Suivre la performance financière de l'entreprise.",
+    "ville_poste": "Orléans",
+    "entreprise_id": 70,
+    "recruteur_id": 10
+  },
+  {
+    "id": 71,
+    "titre_du_poste": "Technicien audiovisuel",
+    "description_poste": "Gérer les équipements audiovisuels.",
+    "ville_poste": "Amiens",
+    "entreprise_id": 71,
+    "recruteur_id": 11
+  },
+  {
+    "id": 72,
+    "titre_du_poste": "Dessinateur industriel",
+    "description_poste": "Réaliser des plans techniques.",
+    "ville_poste": "Avignon",
+    "entreprise_id": 72,
+    "recruteur_id": 12
+  },
+  {
+    "id": 73,
+    "titre_du_poste": "Maître d'hôtel",
+    "description_poste": "Gérer le service dans un restaurant.",
+    "ville_poste": "Perpignan",
+    "entreprise_id": 73,
+    "recruteur_id": 13
+  },
+  {
+    "id": 74,
+    "titre_du_poste": "Responsable des achats",
+    "description_poste": "Gérer les achats pour l'entreprise.",
+    "ville_poste": "Brest",
+    "entreprise_id": 74,
+    "recruteur_id": 14
+  },
+  {
+    "id": 75,
+    "titre_du_poste": "Chargé de relations clients",
+    "description_poste": "Gérer les relations avec les clients.",
+    "ville_poste": "Rennes",
+    "entreprise_id": 75,
+    "recruteur_id": 15
+  },
+  {
+    "id": 76,
+    "titre_du_poste": "Directeur d'agence",
+    "description_poste": "Gérer une agence de communication.",
+    "ville_poste": "Saint-Étienne",
+    "entreprise_id": 76,
+    "recruteur_id": 16
+  },
+  {
+    "id": 77,
+    "titre_du_poste": "Technicien qualité",
+    "description_poste": "Assurer la qualité des produits.",
+    "ville_poste": "Clermont-Ferrand",
+    "entreprise_id": 77,
+    "recruteur_id": 17
+  },
+  {
+    "id": 78,
+    "titre_du_poste": "Consultant en stratégie",
+    "description_poste": "Conseiller les entreprises sur leur stratégie.",
+    "ville_poste": "Toulon",
+    "entreprise_id": 78,
+    "recruteur_id": 18
+  },
+  {
+    "id": 79,
+    "titre_du_poste": "Responsable de la logistique",
+    "description_poste": "Gérer la chaîne d'approvisionnement.",
+    "ville_poste": "Laval",
+    "entreprise_id": 79,
+    "recruteur_id": 19
+  },
+  {
+    "id": 80,
+    "titre_du_poste": "Ingénieur en génie civil",
+    "description_poste": "Travailler sur des projets de construction.",
+    "ville_poste": "Pau",
+    "entreprise_id": 80,
+    "recruteur_id": 20
+  },
+  {
+    "id": 81,
+    "titre_du_poste": "Chef de projet digital",
+    "description_poste": "Gérer les projets numériques de l'entreprise.",
+    "ville_poste": "Évry",
+    "entreprise_id": 81,
+    "recruteur_id": 1
+  },
+  {
+    "id": 82,
+    "titre_du_poste": "Médecin généraliste",
+    "description_poste": "Fournir des soins médicaux aux patients.",
+    "ville_poste": "Le Havre",
+    "entreprise_id": 82,
+    "recruteur_id": 2
+  },
+  {
+    "id": 83,
+    "titre_du_poste": "Spécialiste en marketing",
+    "description_poste": "Élaborer des campagnes marketing.",
+    "ville_poste": "Colmar",
+    "entreprise_id": 83,
+    "recruteur_id": 3
+  },
+  {
+    "id": 84,
+    "titre_du_poste": "Consultant en management",
+    "description_poste": "Conseiller les entreprises sur leur management.",
+    "ville_poste": "Aix-en-Provence",
+    "entreprise_id": 84,
+    "recruteur_id": 4
+  },
+  {
+    "id": 85,
+    "titre_du_poste": "Rédacteur technique",
+    "description_poste": "Rédiger des documents techniques.",
+    "ville_poste": "Saint-Denis",
+    "entreprise_id": 85,
+    "recruteur_id": 5
+  },
+  {
+    "id": 86,
+    "titre_du_poste": "Expert en données",
+    "description_poste": "Analyser les données pour en tirer des insights.",
+    "ville_poste": "Toulouse",
+    "entreprise_id": 86,
+    "recruteur_id": 6
+  },
+  {
+    "id": 87,
+    "titre_du_poste": "Responsable de la sécurité",
+    "description_poste": "Assurer la sécurité des locaux de l'entreprise.",
+    "ville_poste": "Amiens",
+    "entreprise_id": 87,
+    "recruteur_id": 7
+  },
+  {
+    "id": 88,
+    "titre_du_poste": "Chargé de mission développement durable",
+    "description_poste": "Mettre en œuvre des projets de développement durable.",
+    "ville_poste": "Angers",
+    "entreprise_id": 88,
+    "recruteur_id": 8
+  },
+  {
+    "id": 89,
+    "titre_du_poste": "Directeur artistique",
+    "description_poste": "Gérer la direction artistique de projets créatifs.",
+    "ville_poste": "Nantes",
+    "entreprise_id": 89,
+    "recruteur_id": 9
+  },
+  {
+    "id": 90,
+    "titre_du_poste": "Chargé de communication interne",
+    "description_poste": "Gérer la communication au sein de l'entreprise.",
+    "ville_poste": "Saint-Étienne",
+    "entreprise_id": 90,
+    "recruteur_id": 10
+  },
+  {
+    "id": 91,
+    "titre_du_poste": "Développeur Node.js",
+    "description_poste": "Développer des applications avec Node.js.",
+    "ville_poste": "Rouen",
+    "entreprise_id": 91,
+    "recruteur_id": 1
+  },
+  {
+    "id": 92,
+    "titre_du_poste": "Chef de projet senior",
+    "description_poste": "Gérer des projets complexes.",
+    "ville_poste": "Lille",
+    "entreprise_id": 92,
+    "recruteur_id": 2
+  },
+  {
+    "id": 93,
+    "titre_du_poste": "Commercial export",
+    "description_poste": "Développer les ventes à l'international.",
+    "ville_poste": "Brest",
+    "entreprise_id": 93,
+    "recruteur_id": 3
+  },
+  {
+    "id": 94,
+    "titre_du_poste": "Architecte réseau",
+    "description_poste": "Concevoir l'architecture des réseaux.",
+    "ville_poste": "Avignon",
+    "entreprise_id": 94,
+    "recruteur_id": 4
+  },
+  {
+    "id": 95,
+    "titre_du_poste": "Technicien de laboratoire",
+    "description_poste": "Travailler dans un laboratoire scientifique.",
+    "ville_poste": "Nantes",
+    "entreprise_id": 95,
+    "recruteur_id": 5
+  },
+  {
+    "id": 96,
+    "titre_du_poste": "Gestionnaire de portefeuille",
+    "description_poste": "Gérer les investissements de clients.",
+    "ville_poste": "Lille",
+    "entreprise_id": 96,
+    "recruteur_id": 6
+  },
+  {
+    "id": 97,
+    "titre_du_poste": "Développeur de jeux vidéo",
+    "description_poste": "Créer des jeux vidéo innovants.",
+    "ville_poste": "Marseille",
+    "entreprise_id": 97,
+    "recruteur_id": 7
+  },
+  {
+    "id": 98,
+    "titre_du_poste": "Contrôleur qualité",
+    "description_poste": "Assurer la qualité des produits.",
+    "ville_poste": "Toulouse",
+    "entreprise_id": 98,
+    "recruteur_id": 8
+  },
+  {
+    "id": 99,
+    "titre_du_poste": "Ingénieur de recherche",
+    "description_poste": "Travailler sur des projets de recherche avancée.",
+    "ville_poste": "Lyon",
+    "entreprise_id": 99,
+    "recruteur_id": 9
+  },
+  {
+    "id": 100,
+    "titre_du_poste": "Directeur des opérations",
+    "description_poste": "Superviser les opérations de l'entreprise.",
+    "ville_poste": "Paris",
+    "entreprise_id": 100,
+    "recruteur_id": 10
+  }
+]
