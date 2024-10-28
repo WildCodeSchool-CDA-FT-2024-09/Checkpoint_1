@@ -1,4 +1,4 @@
-import Arr from './arr'; // Assurez-vous d'importer correctement votre classe Arr
+import Arr from '../arr'; // Assurez-vous d'importer correctement votre classe Arr
 
 describe('Arr class methods', () => {
   let myArr: Arr;
