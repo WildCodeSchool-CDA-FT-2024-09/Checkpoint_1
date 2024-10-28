@@ -1,0 +1,10 @@
+insert into offers_by_candidate (id, candidate_id, offer_id) values (1, 1, 1);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (2, 1, 2);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (3, 2, 3);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (4, 2, 4);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (5, 3, 5);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (6, 3, 6);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (7, 4, 7);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (8, 4, 8);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (9, 5, 9);
+insert into offers_by_candidate (id, candidate_id, offer_id) values (10, 5, 10);

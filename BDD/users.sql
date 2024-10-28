@@ -1,0 +1,10 @@
+insert into users (id, login, password) values (1, 'dglew0', '997b0e75a2f0b9650fea660f6041d89151c5e52a');
+insert into users (id, login, password) values (2, 'aturl1', '17fccf10fca261381723d0d4465d9e446f76e703');
+insert into users (id, login, password) values (3, 'ksaffin2', '041822fe2f3e1f5807361006c92f0a712b62790e');
+insert into users (id, login, password) values (4, 'aamorts3', 'd3b38bb1614e4b5cc0805b58a271b1318b66d7fb');
+insert into users (id, login, password) values (5, 'bsancias4', '17c9467a57cb506c5856144989043ff4bb730b75');
+insert into users (id, login, password) values (6, 'uyateman5', '19436ecf3ef616e0916e7db96d8bfa69b39092bd');
+insert into users (id, login, password) values (7, 'cjubb6', '25b431f55c6b8051a8d2e32761b20051006c1095');
+insert into users (id, login, password) values (8, 'hpatillo7', 'add33840e04cb7022cd823bad6a1a9047e4b0803');
+insert into users (id, login, password) values (9, 'emoorey8', '1ad7d0e16cc9331c188542292675daf643dae15a');
+insert into users (id, login, password) values (10, 'cbaseley9', '7a4fdb53e4848f89c55b5ef1af85cb81e10f0197');
