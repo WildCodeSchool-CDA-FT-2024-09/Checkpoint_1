@@ -1,6 +1,6 @@
 import "reflect-metadata";
 import { BaseEntity, Column, Entity, OneToMany, PrimaryGeneratedColumn } from "typeorm";
-import { Application } from "application/application.entities"; 
+import { Application } from "../application/application.entities"; 
 
 @Entity()
 export class Candidate extends BaseEntity {
