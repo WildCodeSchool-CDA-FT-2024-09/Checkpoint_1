@@ -1,1 +1,1 @@
-INSERT INTO role (lable) VALUES ("Recruteur"), ("Chercheur d'emploi");
+INSERT INTO role (label) VALUES ('Recruteur'), ('Chercheur d''emploi');

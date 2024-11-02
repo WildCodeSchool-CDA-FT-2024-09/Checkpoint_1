@@ -1,0 +1,11 @@
+insert INTO application (user_id, jobOffer_id, id) VALUES (2, 1, 1);
+insert INTO application (user_id, jobOffer_id, id) VALUES (2, 2, 2);
+insert INTO application (user_id, jobOffer_id, id) VALUES (2, 3, 3);
+insert INTO application (user_id, jobOffer_id, id) VALUES (4, 4, 4);
+insert INTO application (user_id, jobOffer_id, id) VALUES (4, 5, 5);
+insert INTO application (user_id, jobOffer_id, id) VALUES (4, 6, 6);
+insert INTO application (user_id, jobOffer_id, id) VALUES (6, 7, 7);
+insert INTO application (user_id, jobOffer_id, id) VALUES (6, 8, 8);
+insert INTO application (user_id, jobOffer_id, id) VALUES (8, 9, 9);
+insert INTO application (user_id, jobOffer_id, id) VALUES (10, 10, 10);
+insert INTO application (user_id, jobOffer_id, id) VALUES (10, 11, 11);
