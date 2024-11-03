@@ -18,4 +18,4 @@ WHERE application.jobOffer_id = 5;
 SELECT * FROM user
 INNER JOIN application ON user.id = application.user_id
 INNER JOIN jobOffer ON application.jobOffer_id = jobOffer.id
-WHERE jobOffer.company_id = 1;
+WHERE jobOffer.company_id = 7;
