@@ -14,4 +14,23 @@ describe("Array", () => {
     expect(newArray.value).toHaveLength(1);
     expect(result).toEqual(1);
   });
+
+  it("should remove an element from the array", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    const result = newArray.pop();
+
+    expect(newArray.value).toHaveLength(0);
+    expect(result).toEqual("a");
+  });
+
+  it("should remove the first element from the array", () => {
+    const newArray = new Arr();
+    newArray.push("a");
+    newArray.push("b");
+    const result = newArray.shift();
+
+    expect(newArray.value).toHaveLength(1);
+    expect(result).toEqual("a");
+  });
 });
